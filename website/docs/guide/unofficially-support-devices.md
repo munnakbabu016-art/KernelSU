@@ -1,4 +1,4 @@
-# Unofficially supported devices
+https://kernelsu.org/guide/what-is-kernelsu.html# Unofficially supported devices
 
 ::: warning
 This document is for archival reference only and is no longer maintained.
